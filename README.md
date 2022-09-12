@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doud29</h1>
 <h3 align="center">A passionate fullStack developer from France</h3>
 
-- 🔭 I’m currently working on my **V2 Marvel & Rawg Clone**
+- 🔭 I’m currently working on my **web app [VideQuiver]**
 
 - 🌱 I’m currently learning **Windtail / React / ReactNative & TypeScript**
 
